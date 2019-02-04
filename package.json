@@ -1,0 +1,28 @@
+{
+  "name": "react-claws",
+  "version": "1.0.0",
+  "description": "Semi-source-compatible React Hooks compatible layers.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Pisin Roengniransathit"
+  },
+  "license": "BSD",
+  "peerDependencies": {
+    "react": "^16.4.0"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "webpack": "^4.29.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
