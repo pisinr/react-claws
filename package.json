@@ -1,6 +1,6 @@
 {
   "name": "react-claws",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Semi-source-compatible React Hooks compatible layers.",
   "main": "build/index.js",
   "scripts": {
