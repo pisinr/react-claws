@@ -10,7 +10,7 @@
   "author": {
     "name": "Pisin Roengniransathit"
   },
-  "license": "BSD",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^16.4.0"
   },
